@@ -1,0 +1,3 @@
+primera linea
+git status //para ver el estado del archivo
+cambio con hola-paco
